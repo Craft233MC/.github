@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi Here is github page of Craft233
+### What's Craft233
+Craft233 is a Minecraft survival server.It made by [Neokoni](https://github.com/sekaom).  
+Craft233 not a offical minecraft server  
+Our website: [Craft233](https://www.craft233.top)
+### Where there are
+Here is Open repositories of Craft233.Maybe you can find some that can help you!
 
 <!--
 
