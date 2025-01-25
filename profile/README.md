@@ -3,6 +3,8 @@
 Craft233 is a Minecraft survival server.It made by [Neokoni](https://github.com/neokoni).  
 Craft233 not a offical minecraft server  
 Our website: [Craft233](https://www.craft233.top)
+Our projects list: [HERE!](https://github.com/Craft233MC/projects-list/blob/main/README.md)
+
 ### to do list?
 - A minecraft plugin for Craft233  
 - New docs website  
